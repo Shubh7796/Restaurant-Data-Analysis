@@ -1,0 +1,1 @@
+Restaurant Data Analysis using python and idle is jupyter notebook, performed data extraction, data cleaning, data visualisation and complete data analysis on given task. Tools used like pandas, numpy, matplotlib, seaborn, plotly, folium etc.
